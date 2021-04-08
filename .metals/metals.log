@@ -1,0 +1,15 @@
+[0m2021.04.05 16:44:26 INFO  Started: Metals version 0.10.0 in workspace 'C:\Learnings\CALIBER 2021\Words-Synonyms' for client vscode 1.54.3.[0m
+[0m2021.04.05 16:44:43 INFO  time: initialize in 16s[0m
+[0m2021.04.05 16:44:49 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.05 16:44:49 WARN  no build tool detected in workspace 'C:\Learnings\CALIBER 2021\Words-Synonyms'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.04.05 17:26:13 INFO  shutting down Metals[0m
+[0m2021.04.05 23:10:37 INFO  Started: Metals version 0.10.0 in workspace 'C:\Learnings\CALIBER 2021\Words-Synonyms' for client vscode 1.55.0.[0m
+[0m2021.04.05 23:10:47 INFO  time: initialize in 9.29s[0m
+[0m2021.04.05 23:10:49 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.05 23:10:49 WARN  no build tool detected in workspace 'C:\Learnings\CALIBER 2021\Words-Synonyms'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.04.06 21:45:20 INFO  shutting down Metals[0m
+[0m2021.04.07 11:49:57 INFO  Started: Metals version 0.10.1 in workspace 'C:\Learnings\CALIBER 2021\Words-Synonyms' for client vscode 1.55.0.[0m
+[0m2021.04.07 11:50:26 INFO  time: initialize in 29s[0m
+[0m2021.04.07 11:50:34 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.07 11:50:34 WARN  no build tool detected in workspace 'C:\Learnings\CALIBER 2021\Words-Synonyms'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.04.08 10:54:54 INFO  shutting down Metals[0m
